@@ -4,7 +4,7 @@ a MySQL-like system written via Python
 
 not case sensitive
 
-contain: a parser and support multiple SQL query
+contain: A parser and support multiple SQL queries
 
 input string -> parser -> engine -> actions -> db -> tables -> columns
 <img width="847" alt="image" src="https://user-images.githubusercontent.com/39432014/198690031-9d3faf3d-3d79-4376-af16-61245f2c7fd8.png">
