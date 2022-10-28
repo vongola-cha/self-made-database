@@ -1,6 +1,6 @@
 # self-made-database
 
-a MySQL-like system written via JAVA
+a MySQL-like system written via Python
 
 not case sensitive
 
